@@ -1,5 +1,5 @@
 import './DataRecord.css'
-import React, { useState } from 'react';
+import React from 'react';
 import Chip from '@mui/material/Chip';
 import DeleteIcon from '@mui/icons-material/Delete';
 import IconButton from '@mui/material/IconButton';
